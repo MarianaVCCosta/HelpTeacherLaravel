@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE-edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{{asset('css/bootstrap.css')}}">
-         <link rel="stylesheet" href="{{asset('css/styleCorrecoesNovo.css')}}">
+         <link rel="stylesheet" href="{{asset('css/styleCorrecoes.css')}}">
         <link rel="icon" href="favicon/favicon.ico">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <title>Help Teacher</title>
